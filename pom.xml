@@ -81,7 +81,7 @@
             <roles>
                 <role>Committer</role>
             </roles>
-            <timezone />
+            <timezone/>
         </developer>
         <developer>
             <id>afeng</id>
@@ -108,7 +108,7 @@
             <roles>
                 <role>Committer</role>
             </roles>
-            <timezone />
+            <timezone/>
         </developer>
         <developer>
             <id>jjackson</id>
@@ -339,7 +339,7 @@
         <rocketmq.version>4.2.0</rocketmq.version>
 
         <jackson.version>2.10.5</jackson.version>
-        <jackson.databind.version>2.10.5.1</jackson.databind.version>
+        <jackson.databind.version>2.12.7.1</jackson.databind.version>
         
         <storm.kafka.client.version>0.11.0.3</storm.kafka.client.version>
 
