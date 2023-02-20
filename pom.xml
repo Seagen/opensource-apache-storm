@@ -81,7 +81,7 @@
             <roles>
                 <role>Committer</role>
             </roles>
-            <timezone />
+            <timezone/>
         </developer>
         <developer>
             <id>afeng</id>
@@ -108,7 +108,7 @@
             <roles>
                 <role>Committer</role>
             </roles>
-            <timezone />
+            <timezone/>
         </developer>
         <developer>
             <id>jjackson</id>
@@ -336,7 +336,7 @@
         <jpmml.version>1.0.22</jpmml.version>
         <jedis.version>2.9.0</jedis.version>
         <activemq.version>5.16.5</activemq.version>
-        <rocketmq.version>4.2.0</rocketmq.version>
+        <rocketmq.version>5.1.0</rocketmq.version>
 
         <jackson.version>2.10.5</jackson.version>
         <jackson.databind.version>2.10.5.1</jackson.databind.version>
