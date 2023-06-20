@@ -33,7 +33,7 @@ limitations under the License.
     
     <properties>
         <!-- Required downgrade by hadoop-hdfs 2.8.5 -->
-        <guava.version>16.0.1</guava.version>
+        <guava.version>32.0.0-android</guava.version>
     </properties>
     
     <dependencies>
@@ -133,7 +133,7 @@ limitations under the License.
                         </goals>
                         <configuration>
                             <transformers>
-                                <transformer implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer" />
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>org.apache.storm.blobstore.MigratorMain</mainClass>
                                 </transformer>
