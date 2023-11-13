@@ -81,7 +81,7 @@
             <roles>
                 <role>Committer</role>
             </roles>
-            <timezone />
+            <timezone/>
         </developer>
         <developer>
             <id>afeng</id>
@@ -108,7 +108,7 @@
             <roles>
                 <role>Committer</role>
             </roles>
-            <timezone />
+            <timezone/>
         </developer>
         <developer>
             <id>jjackson</id>
@@ -315,8 +315,8 @@
         <mockito.version>3.0.0</mockito.version>
         <zookeeper.version>3.5.9</zookeeper.version>
         <jline.version>0.9.94</jline.version>
-        <hive.version>2.3.9</hive.version>
-        <hadoop.version>2.10.1</hadoop.version>
+        <hive.version>3.1.0</hive.version>
+        <hadoop.version>3.3.4</hadoop.version>
         <hdfs.version>${hadoop.version}</hdfs.version>
         <hbase.version>2.1.3</hbase.version>
         <kryo.version>3.0.3</kryo.version>

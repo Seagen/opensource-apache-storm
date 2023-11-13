@@ -202,7 +202,7 @@
         <!-- Needed in this version by hive -->
       <groupId>org.apache.thrift</groupId>
       <artifactId>libthrift</artifactId>
-      <version>0.9.3</version>
+      <version>0.17.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
